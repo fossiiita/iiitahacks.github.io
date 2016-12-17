@@ -1,7 +1,9 @@
 # iiitahacks.github.io
 Website of iiita hacks hackthon.
 
-The hackthon is from 10th Sep 9 pm Sat to Sun 3 pm. 
+The hackthon is from 10th Sep 9 pm Sat to Sun 3 pm.
+
+##### Project Maintainter: [magician03](https://www.github.com/magician03) (Diwakar)
 
 Steps for participants
 ---------------------
